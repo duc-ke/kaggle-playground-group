@@ -2,6 +2,7 @@
 `빵형의 개발도상국`님의 `annoying-orange-face(github)`을 리뷰하고 테스트 
 
 ## 환경 셋팅
+ * python version : 3.8.10
  * python libs 설치
  * 내부에서 쓰이는 얼굴 랜드마크 모델(dlib model) 다운로드 및 압축해제
 ```bash
