@@ -5,6 +5,7 @@
  * python libs 설치
  * 내부에서 쓰이는 얼굴 랜드마크 모델(dlib model) 다운로드 및 압축해제
 ```bash
+# mac or linumx 환경
 bash requirements.sh
 ```
 
