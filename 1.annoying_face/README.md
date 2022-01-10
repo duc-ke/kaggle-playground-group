@@ -3,10 +3,10 @@
 
 ## 환경 셋팅
  * python version : 3.8.10
- * python libs 설치
- * 내부에서 쓰이는 얼굴 랜드마크 모델(dlib model) 다운로드 및 압축해제
+ * conda env
+ * 그외 환경설치는 아래 sh실행(mac or linux 환경 권고)
+   * python libs 설치 및 내부에서 쓰이는 얼굴 랜드마크 모델(dlib model) 다운로드 및 압축해제
 ```bash
-# mac or linumx 환경
 bash requirements.sh
 ```
 
