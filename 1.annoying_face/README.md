@@ -10,6 +10,18 @@
 bash requirements.sh
 ```
 
+## 실행
+### python script
+```bash
+python main.py
+```
+### jupyter notebook
+* [1.스노우카메라리뷰.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/1.annoying_face/jupyters/st1.%EC%8A%A4%EB%85%B8%EC%9A%B0%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A6%AC%EB%B7%B0%20-%20%EB%9D%BC%EC%9D%B4%EC%96%B8%EC%96%BC%EA%B5%B4%EB%A1%9C%EB%B0%94%EA%BF%94%EC%B9%98%EA%B8%B0.ipynb)
+* [2.어노잉오렌지리뷰.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/1.annoying_face/jupyters/st2.%EC%96%B4%EB%85%B8%EC%9E%89%EC%98%A4%EB%A0%8C%EC%A7%80%EB%A6%AC%EB%B7%B0.ipynb)
+
+## 결과
+
+
 ## Links
 * [annoying-orange-face(github)](https://github.com/kairess/annoying-orange-face)
 * [내 얼굴로 어노잉 오렌지 만들기 youtube](https://www.youtube.com/watch?v=9VYUXchrMcM&t=178s)
