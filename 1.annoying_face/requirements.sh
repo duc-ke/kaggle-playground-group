@@ -1,6 +1,6 @@
 # env(libs) setting
 pip install opencv-python numpy imutils cmake
-conda install -c conda-forge dlib
+conda install -c conda-forge dlib -y # pip install dlib (for m1 mac silicon)
 
 # download dlib-model(68 face landmarks model)
 wget https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2
