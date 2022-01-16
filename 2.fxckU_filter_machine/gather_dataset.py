@@ -36,7 +36,7 @@ def click(event, x, y, flags, param):
         file = np.vstack((file, data))
         print(file.shape)
 
-cv2.nam edWindow('Dataset')
+cv2.namedWindow('Dataset')
 cv2.setMouseCallback('Dataset', click)
 
 while cap.isOpened():
@@ -75,7 +75,7 @@ while cap.isOpened():
             
             ## single.py에서 inference 부분 제거하고 새로운 데이터셋(np) 저장 
             data = np.append(data, 11)  # angle데이터에 라벨 추가
-            print(data)
+            # print(data)
             mp_drawing.draw_landmarks(img, res, mp_hands.HAND_CONNECTIONS)
 
     cv2.imshow('Dataset', img)
