@@ -27,14 +27,14 @@ python gather_dataset.py
 python fy_filter.py
 ```
 ### jupyter notebook
-* [1.-리뷰.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/1.annoying_face/jupyters/st1.%EC%8A%A4%EB%85%B8%EC%9A%B0%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A6%AC%EB%B7%B0%20-%20%EB%9D%BC%EC%9D%B4%EC%96%B8%EC%96%BC%EA%B5%B4%EB%A1%9C%EB%B0%94%EA%BF%94%EC%B9%98%EA%B8%B0.ipynb)
-* [2.-리뷰.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/1.annoying_face/jupyters/st2.%EC%96%B4%EB%85%B8%EC%9E%89%EC%98%A4%EB%A0%8C%EC%A7%80%EB%A6%AC%EB%B7%B0.ipynb)
+* [1.가위바위보리뷰.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/2.fxckU_filter_machine/jupyters/st1.%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4_%EC%9D%B8%EC%8B%9D%EA%B8%B0%EB%8A%A5%EB%A6%AC%EB%B7%B0.ipynb)
+* [2.fxcku영상모자이크처리리뷰.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/2.fxckU_filter_machine/jupyters/st2.fxckU%ED%95%84%ED%84%B0%EB%A6%AC%EB%B7%B0.ipynb)
 
 ## 결과
 
 
 ## Links
-* [annoying-orange-face(github)](https://github.com/kairess/annoying-orange-face)
+* [Rock-Paper-Scissors-Machine(github)](https://github.com/kairess/Rock-Paper-Scissors-Machine)
 * [가운데 손가락 모자이크 알고리즘 만들기 youtube](https://youtu.be/tQeuPrX821w)
 * [가위바위보 기계 만들기 - 손가락 인식 인공지능 youtube](https://youtu.be/udeQhZHx-00)
 * [손가락 인식 볼륨 조절기 만들기 youtube](https://youtu.be/CJSobYHYDo4)
