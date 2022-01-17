@@ -17,7 +17,11 @@ python main.py
 ```
 ### jupyter notebook
 * [1.스노우카메라리뷰.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/1.annoying_face/jupyters/st1.%EC%8A%A4%EB%85%B8%EC%9A%B0%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A6%AC%EB%B7%B0%20-%20%EB%9D%BC%EC%9D%B4%EC%96%B8%EC%96%BC%EA%B5%B4%EB%A1%9C%EB%B0%94%EA%BF%94%EC%B9%98%EA%B8%B0.ipynb)
+  * face detection 및 라이언이미지로 얼굴 대치 
 * [2.어노잉오렌지리뷰.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/1.annoying_face/jupyters/st2.%EC%96%B4%EB%85%B8%EC%9E%89%EC%98%A4%EB%A0%8C%EC%A7%80%EB%A6%AC%EB%B7%B0.ipynb)
+  * 오렌지이미지에 face landmarks(눈, 입)오려 붙이기
+* [3.스노우카메라리뷰-advanced.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/1.annoying_face/jupyters/st3.%EC%8A%A4%EB%85%B8%EC%9A%B0%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A6%AC%EB%B7%B0%20-%20%EB%9D%BC%EC%9D%B4%EC%96%B8%EC%96%BC%EA%B5%B4%EB%A1%9C%EB%B0%94%EA%BF%94%EC%B9%98%EA%B8%B0-advanced.ipynb)
+  * 얼굴 기울기를 따라 라이언 얼굴도 함께 움직여주는 얼굴 대치 
 
 ## 결과
 
