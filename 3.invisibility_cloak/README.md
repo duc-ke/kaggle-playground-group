@@ -15,10 +15,11 @@ bash requirements.sh
 ### python script
 ```bash
 # 배경 2초 촬영 후 검정색 물체(사람)영역을 투명처리
-python invisible_person.py
+python main.py
 # 배경 2초 촬영 후 앉으면 투명인간으로 나타남
-python invisible_person2.py
+python invisible_person.py
 # 배경 2초 촬영 후 스파이더맨 손가락제스처시, 투명인간 변신
+python invisible_person2.py
 ```
 ### jupyter notebook
 * [st1.검정물체를인식하여투명해지기.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/3.invisibility_cloak/jupyters/st1.%EA%B2%80%EC%A0%95%EB%AC%BC%EC%B2%B4%EB%A5%BC%EC%9D%B8%EC%8B%9D%ED%95%98%EC%97%AC%ED%88%AC%EB%AA%85%ED%95%B4%EC%A7%80%EA%B8%B0.ipynb)
