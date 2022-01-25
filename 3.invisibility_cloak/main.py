@@ -55,6 +55,10 @@ while(cap.isOpened()):
   lower_black = np.array([0, 0, 0])
   upper_black = np.array([255, 255, 80])
   mask1 = cv2.inRange(hsv, lower_black, upper_black)
+  print(mask1.shape)
+  print(np.unique(mask1))
+  print(mask1)
+
 
   '''
   # Refining the mask corresponding to the detected red color
@@ -69,6 +73,9 @@ while(cap.isOpened()):
   mask_bg = cv2.bitwise_not(mask_cloak)
 
   cv2.imshow('mask_cloak', mask_cloak)
+  print('--------')
+  print(mask_cloak.shape)
+  raise AssertionError('die')
 
   # Generate the final output
   # 두개 행렬이 0이 아닌것만 통과됨 즉, 마스크 영역만 남음, And연산
