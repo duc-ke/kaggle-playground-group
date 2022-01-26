@@ -17,6 +17,8 @@ for i in range(60):
 
 # 동영상 기록, 저장
 fourcc = cv2.VideoWriter_fourcc('m', 'p', '4', 'v')
+print('!!!!')
+print(cap.get(cv2.CAP_PROP_FPS))
 # fourcc = cv2.VideoWriter_fourcc(*'avc1')
 # out = cv2.VideoWriter('videos/output.mp4', fourcc, cap.get(cv2.CAP_PROP_FPS), (background.shape[1], background.shape[0]))
 # out2 = cv2.VideoWriter('videos/original.mp4', fourcc, cap.get(cv2.CAP_PROP_FPS), (background.shape[1], background.shape[0]))
