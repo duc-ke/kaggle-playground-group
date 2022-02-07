@@ -20,7 +20,7 @@
 1. [해리포터 투명 망토 🧙 만들기 youtube](https://youtu.be/suytB_6aS6M), 22/01/25
    * `3.invisibility_cloak/`
 1. [삼성전자 주식, 이더리움 시세 💰 인공지능으로 예측해보기 youtube](https://youtu.be/sG_WeGbZ9A4), 22/02/08
-   * `predict_stockprice/`
+   * `4.predict_stockprice/`
 4. [인공지능 웃음 판독기 😄  만들기 youtube](https://youtu.be/GrN1tKjVBM8), 22/02/15
 5. [마스크 썼는지 안썼는지 알아내는 인공지능 youtube](https://youtu.be/ncIyy1doSJ8), 22/02/22
 6. [삐- 자동 욕설 필터링 프로그램 만들기 youtube](https://youtu.be/J01pGSPOQTk?list=PL-xmlFOn6TUJ9KjFo0VsM3BI9yrCxTnAz), 22/03/01
