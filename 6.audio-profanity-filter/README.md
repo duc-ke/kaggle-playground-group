@@ -16,8 +16,11 @@ bash requirements.sh
 ## 실행
 ### jupyter notebook
 * [st1.SpeechToText_연결및작동확인.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/6.audio-profanity-filter/st1.SpeechToText_%EC%97%B0%EA%B2%B0%EB%B0%8F%EC%9E%91%EB%8F%99%ED%99%95%EC%9D%B8.ipynb)
+   * STT API가 정상 작동하는지 테스트
 * [st2.short_audiofile_to_text.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/6.audio-profanity-filter/st2.%08short_audiofile_to_text.ipynb)
-* * [st3.음성파일(mp3)에서욕을자동삐처리.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/6.audio-profanity-filter/st3.%EC%9D%8C%EC%84%B1%ED%8C%8C%EC%9D%BC(mp3)%EC%97%90%EC%84%9C%EC%9A%95%EC%9D%84%EC%9E%90%EB%8F%99%EC%82%90%EC%B2%98%EB%A6%AC.ipynb)
+   * 짧은 오디오 파일 넣었을 때 STT 동작하는지 테스트
+* [st3.음성파일(mp3)에서욕을자동삐처리.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/6.audio-profanity-filter/st3.%EC%9D%8C%EC%84%B1%ED%8C%8C%EC%9D%BC(mp3)%EC%97%90%EC%84%9C%EC%9A%95%EC%9D%84%EC%9E%90%EB%8F%99%EC%82%90%EC%B2%98%EB%A6%AC.ipynb)
+   * 음성파일을 넣어주고 욕설 부분을 찾아 삐~ 소리로 합성
 
 ## 결과
 
