@@ -2,6 +2,9 @@
 *.mp4
 .DS_Store
 shape_predictor_68_face_landmarks.dat
+2d_images
+2d_masks
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
