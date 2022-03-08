@@ -8,8 +8,10 @@
   * 모델 빌드, 학습, 예측까지 진행 
 
 ## 환경 셋팅
+ * 데이터 전처리만 로컬에서 진행, 학습 및 inference는 colab이용
  * python version : 3.8.10
 ```bash
+# 데이터 전처리 로컬에서 진행 시,
 bash requirements.sh
 ```
 
