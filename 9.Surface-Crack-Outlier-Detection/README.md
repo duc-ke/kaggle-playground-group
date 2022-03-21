@@ -10,7 +10,7 @@
 
 ## 실행
 ### jupyter notebook
-* [Surface_Crack_Outlier_Detection.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/9.Surface-Crack-Outlier-Detection/Surface_Crack_Outlier_Detection.ipynb)
+* [Surface_Crack_Outlier_Detection-colab.ipynb](https://github.com/duc-ke/kaggle-playground-group/blob/main/9.Surface-Crack-Outlier-Detection/Surface_Crack_Outlier_Detection-colab.ipynb)
 
 
 ## 결과
