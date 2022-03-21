@@ -29,4 +29,5 @@
 1. [CT 영상에서 폐 영역만 뽑아내보자 youtube](https://youtu.be/z8lK69BQ0VE?list=PL-xmlFOn6TULrmwkXjRCDAas0ixd_NtyK), 22/03/08
    * `7.CT_lung_segmentation/`
 1. [한국어 문장 생성기 KoGPT2 youtube](https://youtu.be/FQ0vq2CBaL4), 22/03/15
-1. [인공지능 주차장 차단기 만들기 youtube](https://youtu.be/mmFrZV1iH0c), 22/03/22
+   * `8.KoGPT2/`
+1. [표면의 결함을 알아내는 인공지능 - Outlier Detection youtube](https://youtu.be/RJ4oB6MWTsA), 22/03/22
