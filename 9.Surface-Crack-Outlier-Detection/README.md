@@ -19,7 +19,7 @@
 ## 참고
 VAE를 위해 해당 프로젝트에서 이용한 Alibi package의 Outlier Detection 지원내용
 <table><tr><td>
-    <center><img src="imgs/alibi_package.png" width="452"/></center>
+    <center><img src="imgs/alibi_package.png" width="700"/></center>
 </td></tr>
 </table>
 
