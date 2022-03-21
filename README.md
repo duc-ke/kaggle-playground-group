@@ -31,3 +31,4 @@
 1. [한국어 문장 생성기 KoGPT2 youtube](https://youtu.be/FQ0vq2CBaL4), 22/03/15
    * `8.KoGPT2/`
 1. [표면의 결함을 알아내는 인공지능 - Outlier Detection youtube](https://youtu.be/RJ4oB6MWTsA), 22/03/22
+   * `9.Surface-Crack-Outlier-Detection/`
