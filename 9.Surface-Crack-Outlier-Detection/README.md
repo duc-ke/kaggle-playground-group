@@ -1,4 +1,4 @@
-# Mask detection
+# Surface_Crack_Outlier_Detection
 * `빵형의 개발도상국`님의 `표면의 결함을 알아내는 인공지능`을 리뷰하고 테스트 
 
 ## 내용
